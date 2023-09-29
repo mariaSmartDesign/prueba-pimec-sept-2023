@@ -1,5 +1,12 @@
 Error 1:
-
+    Se ha añadido una regla .css
+        .navigation:hover
 Error 2:
-
+    Se ha modificado la linia 26 de estilo de id selector a estilo de clase
+        original 
+            #navigation__link 
+        actual 
+            .navigation__link
 Error 3: 
+    Se ha añadido un estilo a .navigation
+        justify-content: space-between;
